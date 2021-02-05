@@ -5,7 +5,7 @@ My name is Amy Nestingen and I currently work as a Supply Chain Optimization Ana
 [LinkedIn](https://www.linkedin.com/in/amy-nestingen-9501b7117/)
 
 <p align = "center">
-<img src="https://user-images.githubusercontent.com/54515596/106978041-0f1be480-6721-11eb-8312-e569f45c2032.png" width="150">
+<img src="https://user-images.githubusercontent.com/54515596/106978041-0f1be480-6721-11eb-8312-e569f45c2032.png" width="250">
 </p>
 
 **[Click to Go Back to Homepage](https://nestingen.github.io/) 
