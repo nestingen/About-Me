@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# About Me
+My name is Amy Nestingen and I currently work as a Supply Chain Optimization Analyst at Graphic Packaging in Atlanta. My main focuses are creating a Network Optimization model with Llamasoft and developing BI tools with Qlik Sense. I graduated from Iowa State University in 2017 with a double major in Statistics and Supply Chain. I graduated from Bellevue University in 2021 with a Masters in Data Science. I love learning new skills and working on teams that deliver value. 
 
-You can use the [editor on GitHub](https://github.com/nestingen/nestingen.github.io.about_me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align = "center">
+<img src="https://user-images.githubusercontent.com/54515596/106978041-0f1be480-6721-11eb-8312-e569f45c2032.png" width="150">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact Info
+[LinkedIn](https://www.linkedin.com/in/amy-nestingen-9501b7117/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nestingen/nestingen.github.io.about_me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**[Click to Go Back to Homepage](https://nestingen.github.io/)
